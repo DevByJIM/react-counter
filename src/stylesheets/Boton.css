@@ -1,0 +1,26 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-size: 2em;
+    font-weight: 900;
+    border: 2px solid #FFF;
+    border-radius: 15px;
+    margin: 5px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #151;
+}
+button:active{
+    background-color: black;
+    color: #666;
+    border: 1px inset #666;
+}
+.button-clic{
+    background-color: #48e;
+}
+.button-reset{
+    background-color: #517;
+}
